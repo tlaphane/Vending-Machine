@@ -8,7 +8,7 @@ A vending machine using React/Redux
 Make sure you have [git](https://git-scm.com/downloads) and [Node](https://nodejs.org) version 6 installed.
 
 ```sh
-git clone https://github.com/eugeneglova/vending-machine.git
+git https://github.com/tlaphane/Vending-Machine.git
 cd vending-machine
 npm install
 npm run dev
